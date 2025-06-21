@@ -1,7 +1,7 @@
 # Spotify-Clone
-=> A simple and responsive Spotify Clone created using only HTML and CSS. This project replicates the look and feel of the Spotify web interface — including the          sidebar, navigation, album cover section, and player controls — without any backend or functional audio features.
+=> A simple and responsive Spotify Clone created using only HTML and CSS. This project replicates the look and feel of the Spotify web interface — including the sidebar, navigation, album cover section, and player controls — without any backend or functional audio features.
 
-🚀 Features:
+# 🚀 Features:
 
 1.🎵 Clean and modern UI inspired by Spotify
 
@@ -16,7 +16,7 @@
 6.✨ Hover effects and custom scrollbars
 
 
-🛠️ Technologies Used:
+# 🛠️ Technologies Used :
 
 1.HTML5
 
